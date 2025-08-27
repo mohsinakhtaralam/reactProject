@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Always try to Learn React and GIT in your life with some one
+          it's React Time!
         </a>
       </header>
     </div>
