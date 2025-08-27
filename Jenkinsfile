@@ -1,8 +1,8 @@
 pipeline {
     agent {
-            label 'agnet_all'
+            label 'agent_all'
         }
-        
+
     environment {
         CONTAINER_IMAGE  = 'nestjs_image' // Replace with your Docker Hub credentials ID
         CONTAINER_NAME   = 'nestjs_container'
